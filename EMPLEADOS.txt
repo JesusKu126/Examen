@@ -1,0 +1,21 @@
+Juan Perez,Soltero,3,Junior,30000.00
+Ana Gomez,Casado,5,Senior,50000.00
+Carlos Lopez,Soltero,2,Junior,28000.00
+Maria Martinez,Casado,10,Manager,70000.00
+Luis Sanchez,Divorciado,7,Senior,52000.00
+Laura Fernandez,Viudo,1,Junior,27000.00
+Jose Rodriguez,Soltero,4,Senior,45000.00
+Elena Morales,Casado,6,Manager,68000.00
+Miguel Diaz,Soltero,8,Senior,55000.00
+Isabel Torres,Casado,11,Manager,72000.00
+Pedro Ruiz,Divorciado,3,Junior,31000.00
+Lucia Herrera,Soltero,5,Senior,48000.00
+Ricardo Blanco,Casado,9,Manager,69000.00
+Rosa Gutierrez,Viudo,2,Junior,29000.00
+Fernando Castro,Soltero,4,Junior,32000.00
+Patricia Vega,Casado,6,Senior,53000.00
+David Gil,Divorciado,7,Manager,71000.00
+Sandra Rios,Viudo,1,Junior,26000.00
+Javier Romero,Soltero,3,Senior,47000.00
+Andrea Soto,Casado,10,Manager,74000.00
+
